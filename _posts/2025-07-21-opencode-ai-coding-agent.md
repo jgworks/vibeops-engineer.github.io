@@ -5,8 +5,8 @@ date:   2025-07-21 15:30:00 -0400
 categories: ai tools development
 ---
 
-![A VibeCoder in their natural habitat](/images/file_00000000e76c6230b738aef4a346d1a9.png)
-*A VibeCoder in their natural habitat*
+![A VibeOps engineer in their natural habitat](/images/file_00000000e76c6230b738aef4a346d1a9.png)
+*A VibeOps engineer in their natural habitat*
 
 The landscape of AI-powered development tools is evolving rapidly, and [OpenCode](https://opencode.ai) stands out as a compelling open-source alternative that brings AI coding assistance directly to your terminal. Built by the team at SST, OpenCode represents a fresh approach to AI-powered development that prioritizes developer experience and flexibility.
 
