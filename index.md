@@ -5,7 +5,7 @@
 layout: home
 ---
 <h1>
-<img src="me.jpg"/>
+<img src="me.png" style="height: 25vh; width: auto;"/>
 <br>
 VibeOps Engineering
 </h1>
