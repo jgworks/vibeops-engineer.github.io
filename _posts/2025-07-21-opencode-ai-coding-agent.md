@@ -20,7 +20,7 @@ The landscape of AI-powered development tools is evolving rapidly, and [OpenCode
 
 Unlike many AI coding tools that lock you into a specific provider or interface, OpenCode takes a refreshingly open approach:
 
-**Provider Agnostic**: While Claude is recommended for the best experience, OpenCode supports 75+ LLM providers through [Models.dev](https://models.dev), including OpenAI, Google, local models, and more. This flexibility ensures you're not locked into any single AI provider as the landscape evolves.
+**Provider Agnostic**: While Claude's recommended for the best experience, OpenCode supports 75+ LLM providers through [Models.dev](https://models.dev), including OpenAI, Google, local models, and more. This flexibility ensures you're not locked into any single AI provider as the landscape evolves.
 
 **Terminal-First Design**: Built by neovim users and the creators of [terminal.shop](https://terminal.shop), OpenCode features a responsive, native, themeable terminal UI that feels natural for developers who live in the command line.
 
@@ -67,9 +67,9 @@ OpenCode addresses several pain points in the current AI coding landscape:
 
 As AI coding assistants become essential development tools, having open-source alternatives becomes crucial. OpenCode's approach of being provider-agnostic while maintaining high-quality terminal integration positions it well for the future of AI-assisted development.
 
-The project has already gained significant traction with over 14,000 GitHub stars and an active community. For developers looking for a flexible, terminal-native AI coding assistant, OpenCode offers a compelling alternative to proprietary solutions.
+The project's already gained significant traction with over 14,000 GitHub stars and an active community. For developers looking for a flexible, terminal-native AI coding assistant, OpenCode offers a compelling alternative to proprietary solutions.
 
-Whether you're a terminal enthusiast, someone concerned about vendor lock-in, or just curious about open-source AI tools, OpenCode is worth exploring. Check out the [documentation](https://opencode.ai/docs/) to get started, or join their [Discord community](https://opencode.ai/discord) to connect with other users.
+Whether you're a terminal enthusiast, someone concerned about vendor lock-in, or just curious about open-source AI tools, OpenCode's worth exploring. Check out the [documentation](https://opencode.ai/docs/) to get started, or join their [Discord community](https://opencode.ai/discord) to connect with other users.
 
 *The future of AI-assisted development is open, and OpenCode is leading the way.*
 
