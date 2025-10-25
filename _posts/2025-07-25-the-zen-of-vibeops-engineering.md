@@ -16,7 +16,7 @@ In the quiet hours before dawn, when production systems whisper their secrets th
 
 ## The Philosophy of Effortless Mastery
 
-To the untrained eye, what we do appears almost supernatural. A critical production issue emerges—one that would traditionally require hours of painstaking investigation, cross-referencing documentation, and methodical debugging. Yet within minutes, we've identified the root cause, implemented a fix, and deployed it to production. The secret? We've learned to think not just with our own minds, but in harmony with artificial intelligence.
+To the untrained eye, what we do appears almost supernatural. A critical production issue emerges, one that would traditionally require hours of painstaking investigation, cross-referencing documentation, and methodical debugging. Yet within minutes, we've identified the root cause, implemented a fix, and deployed it to production. The secret? We've learned to think not just with our own minds, but in harmony with artificial intelligence.
 
 This isn't about replacing human intelligence - it's about amplifying it. Like a master craftsman who knows exactly which tool to reach for without looking, we've developed an intuitive understanding of how to collaborate with AI systems to achieve results that neither human nor machine could accomplish alone.
 
@@ -62,7 +62,7 @@ We're the early adopters of this new paradigm - the pioneers who recognized that
 
 With great power comes great responsibility, and the power to rapidly diagnose and fix complex systems is not one to be taken lightly. We must resist the temptation to become gatekeepers of knowledge, hoarding our techniques and looking down on those who haven't yet made the transition.
 
-Instead, we should be evangelists for this new way of thinking—showing others that the path to mastery in the age of AI isn't about competing with machines, but about learning to dance with them. We should share our techniques, mentor those who are curious, and help build a community of engineers who understand that the future of our profession lies not in fighting artificial intelligence, but in embracing it as the ultimate collaborative partner.
+Instead, we should be evangelists for this new way of thinking, showing others that the path to mastery in the age of AI isn't about competing with machines, but about learning to dance with them. We should share our techniques, mentor those who are curious, and help build a community of engineers who understand that the future of our profession lies not in fighting artificial intelligence, but in embracing it as the ultimate collaborative partner.
 
 <div style="text-align: center;">
   <img src="/images/2025-07-25-devops.png" alt="DevOps is dead, long live VibeOps" style="height: 50vh; width: auto;">
@@ -85,4 +85,4 @@ We're the engineers who thrive in uncertainty, who see each new AI breakthrough 
 
 ---
 
-[@VibeOpsEng](https://x.com/VibeOpsEng) — currently teaching junior engineers that memorizing APIs is a skill issue when you have access to LLMs.
+[@VibeOpsEng](https://x.com/VibeOpsEng) - currently teaching junior engineers that memorizing APIs is a skill issue when you have access to LLMs.

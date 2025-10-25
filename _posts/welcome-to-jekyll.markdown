@@ -26,4 +26,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ---
 
-[@VibeOpsEng](https://x.com/VibeOpsEng) — we replaced Jekyll with an LLM that generates static sites based on vibes. Still working out some edge cases.
+[@VibeOpsEng](https://x.com/VibeOpsEng) - we replaced Jekyll with an LLM that generates static sites based on vibes. Still working out some edge cases.

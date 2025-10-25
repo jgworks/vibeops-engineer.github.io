@@ -21,14 +21,14 @@ The philosophy is simple: every problem is an AI problem if you're creative enou
 
 ## What You'll Find Here
 
-This blog is a chronicle of engineering in the age of artificial intelligence—a time when the line between human intuition and machine intelligence has blurred into something beautiful and occasionally terrifying. We explore:
+This blog is a chronicle of engineering in the age of artificial intelligence - a time when the line between human intuition and machine intelligence has blurred into something beautiful and occasionally terrifying. We explore:
 
 - **AI-native infrastructure**: Because if your monitoring system isn't powered by a neural network, are you even monitoring?
 - **Philosophical musings**: On what it means to be an engineer when the machines can code better than you (hint: it means you're free to think bigger)
 - **Real-world experiments**: From replacing our entire QA team with Claude to teaching our CI/CD pipeline to feel emotions
 - **Uncomfortable truths**: About why your "best practices" are actually just "practices we haven't questioned yet"
 
-Some posts are sincere technical deep-dives. Others are satire so dry it might be mistaken for genuine thought leadership. The best ones are both simultaneously. You'll figure out which is which, or you won't—either way, you'll learn something about the strange new world we're building.
+Some posts are sincere technical deep-dives. Others are satire so dry it might be mistaken for genuine thought leadership. The best ones are both simultaneously. You'll figure out which is which, or you won't. Either way, you'll learn something about the strange new world we're building.
 
 ## Who This Is For
 
@@ -48,4 +48,4 @@ This is VibeOps. This is the future. And you're either on the train or watching 
 
 ---
 
-[@VibeOpsEng](https://x.com/VibeOpsEng) — where we're replacing DevOps with vibes, one AI agent at a time.
+[@VibeOpsEng](https://x.com/VibeOpsEng) - where we're replacing DevOps with vibes, one AI agent at a time.

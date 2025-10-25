@@ -75,4 +75,4 @@ Whether you're a terminal enthusiast, someone concerned about vendor lock-in, or
 
 ---
 
-[@VibeOpsEng](https://x.com/VibeOpsEng) — currently training our terminal to understand vibes so it can autocomplete based on emotional context rather than syntax.
+[@VibeOpsEng](https://x.com/VibeOpsEng) - currently training our terminal to understand vibes so it can autocomplete based on emotional context rather than syntax.
