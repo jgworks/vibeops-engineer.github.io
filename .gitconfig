@@ -1,0 +1,5 @@
+[user]
+	name = VibeOps
+	email = me@vibeops.engineer
+[commit]
+	gpgsign = false
