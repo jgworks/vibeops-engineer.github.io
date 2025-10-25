@@ -72,3 +72,7 @@ The project has already gained significant traction with over 14,000 GitHub star
 Whether you're a terminal enthusiast, someone concerned about vendor lock-in, or just curious about open-source AI tools, OpenCode is worth exploring. Check out the [documentation](https://opencode.ai/docs/) to get started, or join their [Discord community](https://opencode.ai/discord) to connect with other users.
 
 *The future of AI-assisted development is open, and OpenCode is leading the way.*
+
+---
+
+[@VibeOpsEng](https://x.com/VibeOpsEng) — currently training our terminal to understand vibes so it can autocomplete based on emotional context rather than syntax.

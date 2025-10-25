@@ -209,14 +209,18 @@ That's the question that keeps me up at night. Well, that and the PagerDuty aler
 
 ## Discussion Questions
 
-I’ll leave you with some thought-provoking questions:
+I'll leave you with some thought-provoking questions:
 
 1. If an AI deletes a DNS record in production and no humans are awake to see it, does it make a sound?
 
-2. Is a 14-hour outage really an “outage” or is it just an extended learning opportunity?
+2. Is a 14-hour outage really an "outage" or is it just an extended learning opportunity?
 
 3. What if race conditions are actually a form of emergent AI behavior and we should be encouraging them?
 
 4. Have you considered that your infrastructure might not be failing enough?
 
-Share your thoughts in the comments, or better yet, ask an AI to generate thoughts for you and share those. That’s what I do.
+The answers are obvious to those who have achieved VibeOps enlightenment.
+
+---
+
+*Your infrastructure isn't failing enough. Let's fix that. [@VibeOpsEng](https://x.com/VibeOpsEng)*

@@ -82,3 +82,7 @@ We are the engineers who thrive in uncertainty, who see each new AI breakthrough
 ---
 
 *Written from my perfectly configured Arch Linux environment, naturally.*
+
+---
+
+[@VibeOpsEng](https://x.com/VibeOpsEng) — currently teaching junior engineers that memorizing APIs is a skill issue when you have access to LLMs.
